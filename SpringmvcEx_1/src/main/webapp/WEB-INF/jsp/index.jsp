@@ -9,7 +9,7 @@
 <body>
         <h1>Spring MVC 5</h1>
 	<hr>
-	<h3>Welcome to MVC Architecture using </h3>
+	<h3>Welcome to MVC Architecture using Spring Framework </h3>
 	
 	${message}
 	
