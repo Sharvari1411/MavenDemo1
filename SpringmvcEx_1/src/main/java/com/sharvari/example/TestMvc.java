@@ -13,7 +13,7 @@ public class TestMvc extends AbstractController{
 			throws Exception {
 		
 		ModelAndView mv=new ModelAndView("index");
-		mv.addObject("message","Spring Web Mvc Test Successfully");
+		mv.addObject("message","Spring Web Test Successfully");
 		return mv;
 	}
 
